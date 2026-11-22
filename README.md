@@ -38,7 +38,7 @@ I enjoy turning ideas into interactive digital experiences and continuously impr
 - 🌱 Currently improving my React and JavaScript skills.
 - 🤝 Open to collaboration and exciting development projects.
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
 ### Front-End Development
 
