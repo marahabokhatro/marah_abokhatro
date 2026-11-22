@@ -52,7 +52,7 @@ I enjoy turning ideas into interactive digital experiences and continuously impr
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode,vite,nextjs" alt="Python Git GitHub VS Code Vite Next.js" />
 </p>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### TREND — AI Content Platform
 
@@ -76,20 +76,20 @@ A personal portfolio showcasing my skills, projects, and journey as a Front-End 
 - **Tech Stack:** React.js, Tailwind CSS
 - **Repository:** [View Portfolio](https://github.com/marahabokhatro/profile.git)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Advanced React.js concepts and reusable components.
 - Modern Front-End development practices.
 - API integration and full-stack development fundamentals.
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always happy to connect with fellow developers, exchange ideas, and collaborate on meaningful projects.
 
